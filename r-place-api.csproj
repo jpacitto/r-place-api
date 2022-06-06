@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>r_place_api</RootNamespace>
+    <UserSecretsId>3c136cf5-5e7e-4ae9-839c-3bd6b9c7fe1b</UserSecretsId>
+  </PropertyGroup>
+
+
+</Project>
